@@ -138,3 +138,12 @@ COMPONENTS
 .transports p{
     margin-top: 5px;
 }
+
+/*footer*/
+
+.menu-social a{
+    display: block;
+    width: 32px;
+    height: 32px;
+}
+
