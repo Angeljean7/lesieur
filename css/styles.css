@@ -61,4 +61,6 @@ COMPONENTS
 .header{
     background-color: #f26c25;
     color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
