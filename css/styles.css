@@ -54,5 +54,11 @@ COMPONENTS
 .wrapper{
     max-width: 1080px;
     margin: 0 auto;
-    
+}
+
+/*header*/
+
+.header{
+    background-color: #f26c25;
+    color: white;
 }
