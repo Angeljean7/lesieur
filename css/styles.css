@@ -163,3 +163,15 @@ COMPONENTS
     background-color: black;
     color: white;
 }
+
+.facebook a:hover{
+    background-color: #1877f2;
+}
+
+.twitter a:hover{
+    background-color: #1877f2;
+}
+
+.linkedin a:hover{
+    background-color: #1877f2;
+}
