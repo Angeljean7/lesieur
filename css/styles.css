@@ -155,6 +155,7 @@ COMPONENTS
 
 .menu-social{
     display: flex;
+    gap: 20px;
 
     list-style-type: none;
 }
