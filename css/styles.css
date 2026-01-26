@@ -111,4 +111,15 @@ COMPONENTS
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    background-color: #eee;
+
+    padding: 20px;
+
+    margin-bottom: 60px;
+}
+
+.transports{
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
