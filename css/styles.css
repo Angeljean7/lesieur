@@ -178,3 +178,6 @@ COMPONENTS
 
 /* aide stylistique*/
 
+.conteneur-transports-invisible{
+    display: none;
+}
