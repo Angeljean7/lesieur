@@ -85,3 +85,22 @@ COMPONENTS
     font-weight: bold;
 }
 
+.menu{
+    display: flex;
+    gap: 40px;
+
+    list-style-type: none;
+}
+
+.menu a:hover{
+    text-decoration: underline;
+}
+
+/*hero*/
+
+.hero{
+    background-color: #eee;
+
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
