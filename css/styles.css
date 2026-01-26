@@ -128,4 +128,13 @@ COMPONENTS
 .conteneur-transports{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+}
+
+.transports{
+    text-align: center;
+}
+
+.transports p{
+    margin-top: 5px;
 }
